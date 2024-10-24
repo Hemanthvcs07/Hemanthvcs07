@@ -38,18 +38,8 @@ As a developer, my aim is to create solutions that balance functionality and use
 
 ## 📫 **Let's Connect!**
 
-<a href="https://www.linkedin.com/in/hemanths7/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/hemanths7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.instagram.com/hemanthsayimpu/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:hemanthvcs07@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Mail-FF3D00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanths7/)  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanthvcs07)  [![Instagram](https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemanthsayimpu/)  [![Email](https://img.shields.io/badge/Mail-FF3D00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthvcs07@gmail.com)  
+
 
 
 ---
