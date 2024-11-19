@@ -26,22 +26,6 @@ As a developer, my aim is to create solutions that balance functionality and use
 
 ---
 
-## 📊 **GitHub Stats**
-
-<table style="width: 100%;">
-
-<tr>
-  <td style="width: 50%; padding: 10px;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=hemanths7&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=000&icon_color=000&text_color=000&border_radius=10" alt="Hemanth's GitHub Stats" style="width: 100%; height: auto;" />
-  </td>
-  <td style="width: 50%; padding: 10px;"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanths7&theme=default&hide_border=true&border_radius=10" alt="Hemanth's Streak Stats" style="width: 100%; height: auto;" />
-  </td>
-</tr>
-</table>
-
----
-
 ## 📫 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanths7/)  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanthvcs07)  [![Instagram](https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemanthsayimpu/)  [![Email](https://img.shields.io/badge/Mail-FF3D00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthvcs07@gmail.com)  
